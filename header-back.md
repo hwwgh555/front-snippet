@@ -6,7 +6,7 @@
           <img class="back_img" src="__IMG__/nav_back.png"></a>
       </div>
       <div id="menu" class="sort ">
-        <a href="">商品详情</a>
+        <a href="">标题</a>
       </div>
     </div>
   </div>
